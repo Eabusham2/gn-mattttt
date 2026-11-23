@@ -31,3 +31,10 @@ gn-math is the best unblocked games site to play at school.
 - custom software to get almost ANY game
 
 JOIN OUR DISCORD: https://discord.gg/NAFw4ykZ7n
+
+## Search keywords (ignore)
+
+`gn-math`, `browser-games`, `html5-games`, `game-portal`, `game-catalog`, `game-search`,
+`game-launcher`, `static-site`, `self-hosted`, `single-file`, `javascript`, `html`,
+`css`, `iframe`, `embedded-games`, `fullscreen`, `game-downloads`, `featured-games`,
+`save-data`, `data-export`, `data-import`, `local-storage`, `indexeddb`, `dark-mode`
